@@ -1,2 +1,2 @@
 # BookWyrm
-Finding the bets ordering site for books given ISBN
+Given a shopping list of ISBNs optimize the ordering process as much as possible.
